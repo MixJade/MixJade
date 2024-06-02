@@ -11,7 +11,7 @@
 ![image](./public/January5.jpg)
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MixJade&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=13" alt="alt_text">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MixJade&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=14" alt="alt_text">
 </div>
 
 ![myCommit](https://github-readme-activity-graph.vercel.app/graph?username=MixJade&theme=github-compact&hide_border=true&area=true)
